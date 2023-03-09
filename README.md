@@ -24,4 +24,4 @@ Q11: You wish to compile your own corpus of code switching between bilingual spe
 
 Number of tokens: 2615
 
-Corpus data is sourced from quiz answers given by real students and generated using the ChatGPT 
+Corpus data is sourced from quiz answers given by real students and generated using the ChatGPT AI.
